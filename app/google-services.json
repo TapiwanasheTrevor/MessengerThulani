@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385205828009",
+    "firebase_url": "https://messenger-9e0d4.firebaseio.com",
+    "project_id": "messenger-9e0d4",
+    "storage_bucket": "messenger-9e0d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385205828009:android:9a224b6e5eb3d175",
+        "android_client_info": {
+          "package_name": "com.thulani.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385205828009-nid76lt32joeo6knr957m1v9510audk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thulani.messenger",
+            "certificate_hash": "517f152ba5fd9fca0ffce593d3a79a08b7a29da8"
+          }
+        },
+        {
+          "client_id": "385205828009-a7hc8p60urcieh21r4mku2t1e32phfn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_4cqyMrzAeVWB3Hb_ahgNTdCVPZOTcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385205828009-a7hc8p60urcieh21r4mku2t1e32phfn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

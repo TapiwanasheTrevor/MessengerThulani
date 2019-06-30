@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_attach"
+        android:icon="@drawable/attachment"
+        android:iconTint="#FFFFFF"
+        android:orderInCategory="100"
+        android:title="Action Info"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_sample"
+        android:icon="@drawable/ic_create"
+        android:orderInCategory="100"
+        android:title="About Group"
+        app:showAsAction="ifRoom" />
+</menu>
